@@ -1,0 +1,280 @@
+@import url(m_style.css);
+.cen {
+  margin: 0 auto;
+}
+.left {
+  width: 100px;
+  height: 950px;
+  background: #ae121a;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.left .m_left {
+  width: 100px;
+  height: 440px;
+  background: #ae121a;
+  float: left;
+}
+.left .m_left .yi {
+  width: 100px;
+  height: 80px;
+  background: #890208;
+  text-align: center;
+}
+.left .m_left .yi dt {
+  width: 40px;
+  height: 40px;
+  padding-top: 8px;
+}
+.left .m_left .yi dt span {
+  display: block;
+  width: 40px;
+  height: 40px;
+  margin-left: 30px;
+  padding-top: 6px;
+  background: url(../img/icons.png) no-repeat -359px -89px;
+}
+.left .m_left .yi dd {
+  color: #fff;
+  margin-top: 8px;
+}
+.left .m_left .yi:hover {
+  background: #890208;
+}
+.left .m_left .er {
+  width: 100px;
+  height: 90px;
+  background: ae121a;
+  text-align: center;
+  border-bottom: 1px solid #bb1a22;
+}
+.left .m_left .er dt {
+  width: 40px;
+  height: 40px;
+  padding-top: 20px;
+}
+.left .m_left .er dt span {
+  display: block;
+  width: 40px;
+  height: 40px;
+  margin-left: 30px;
+  background: url(../img/icons.png) no-repeat -232px -149px;
+}
+.left .m_left .er dt span.scon1:hover {
+  background: url(../img/icons.png) no-repeat -232px -82px;
+}
+.left .m_left .er dd {
+  color: #fff;
+  margin-top: 8px;
+}
+.left .m_left .er:hover {
+  background: #890208;
+}
+.left .m_left .san {
+  width: 100px;
+  height: 90px;
+  background: ae121a;
+  text-align: center;
+  border-bottom: 1px solid #bb1a22;
+}
+.left .m_left .san dt {
+  width: 40px;
+  height: 40px;
+  padding-top: 20px;
+}
+.left .m_left .san dt span {
+  display: block;
+  width: 40px;
+  height: 40px;
+  margin-left: 30px;
+  background: url(../img/icons.png) no-repeat -82px -149px;
+}
+.left .m_left .san dt span.scon2:hover {
+  background: url(../img/icons.png) no-repeat -81px -81px;
+}
+.left .m_left .san dd {
+  color: #fff;
+  margin-top: 8px;
+}
+.left .m_left .san:hover {
+  background: #890208;
+}
+.left .m_left .si {
+  width: 100px;
+  height: 90px;
+  background: ae121a;
+  text-align: center;
+  border-bottom: 1px solid #bb1a22;
+}
+.left .m_left .si dt {
+  width: 40px;
+  height: 40px;
+  padding-top: 20px;
+}
+.left .m_left .si dt span {
+  display: block;
+  width: 40px;
+  height: 40px;
+  margin-left: 30px;
+  background: url(../img/icons.png) no-repeat -158px -149px;
+}
+.left .m_left .si dt span.scon3:hover {
+  background: url(../img/icons.png) no-repeat -158px -82px;
+}
+.left .m_left .si dd {
+  color: #fff;
+  margin-top: 8px;
+}
+.left .m_left .si:hover {
+  background: #890208;
+}
+.left .m_left .wu {
+  width: 100px;
+  height: 90px;
+  background: ae121a;
+  text-align: center;
+  border-bottom: 1px solid #bb1a22;
+}
+.left .m_left .wu dt {
+  width: 40px;
+  height: 40px;
+  padding-top: 20px;
+}
+.left .m_left .wu dt span {
+  display: block;
+  width: 40px;
+  height: 40px;
+  margin-left: 30px;
+  background: url(../img/icons.png) no-repeat -312px -149px;
+}
+.left .m_left .wu dt span.scon4:hover {
+  background: url(../img/icons.png) no-repeat -312px -82px;
+}
+.left .m_left .wu dd {
+  color: #fff;
+  margin-top: 8px;
+}
+.left .m_left .wu:hover {
+  background: #890208;
+}
+.right {
+  width: 100%;
+  height: 950px;
+  background: #ffc0cb;
+  margin-left: 100px;
+}
+.right .top {
+  width: 100%;
+  height: 50px;
+  background: #222222;
+}
+.right .top .t_left {
+  width: 535px;
+  height: 50px;
+  background: #222222;
+  float: left;
+}
+.right .top .t_left ul li {
+  float: left;
+  line-height: 50px;
+  font-size: 16px;
+  color: #fff;
+  margin-left: 30px;
+}
+.right .top .t_left ul li.first {
+  width: 115px;
+  height: 50px;
+  background: url(../img/al.gif) no-repeat left center;
+  text-align: center;
+}
+.right .top .t_left ul li.first span {
+  font-size: 17px;
+  font-weight: bold;
+}
+.right .top .t_right {
+  width: 310px;
+  height: 50px;
+  background: #222222;
+  float: left;
+  margin-left: 550px;
+}
+.right .top .t_right dl {
+  float: left;
+}
+.right .top .t_right dl dt {
+  width: 39px;
+  height: 40px;
+  float: left;
+  background: url(../img/icon_2015.png) no-repeat -2px -4px;
+}
+.right .top .t_right dl dd {
+  float: left;
+  margin-left: 10px;
+}
+.right .top .t_right dl dd p {
+  line-height: 20px;
+  color: #fff;
+}
+.right .top .t_right .gl {
+  float: left;
+}
+.right .top .t_right .gl dt {
+  width: 39px;
+  height: 40px;
+  float: left;
+  background: url(../img/icon_2015.png) no-repeat -43px -4px;
+}
+.right .top .t_right .gl dd {
+  float: left;
+  margin-left: 10px;
+}
+.right .top .t_right .gl dd p {
+  line-height: 20px;
+  color: #fff;
+}
+.right .banner {
+  width: 1150px;
+  height: 230px;
+  background: #ffff00;
+  float: left;
+  background: url(../img/beij1.gif) no-repeat left center;
+}
+.right .banner h1 {
+  font-size: 35px;
+  color: #000000;
+  padding-top: 47px;
+  padding-left: 40px;
+}
+.right .ps {
+  width: 100%;
+  height: 36px;
+  background: #ffffff;
+  float: left;
+  border-bottom: 1px solid #e3e3e3;
+}
+.right .ps p {
+  line-height: 36px;
+  float: left;
+  padding-left: 80px;
+}
+.right .ps p a {
+  width: 26px;
+  height: 26px;
+  display: inline-block;
+  margin-top: 2px;
+  background: #ffff00 url(../img/icon2.png) no-repeat -187px -1px;
+}
+.right .ps p span {
+  font-size: 13px;
+  color: #747474;
+  font-weight: bold;
+  letter-spacing: 2px;
+  margin-left: 10px;
+}
+.right .ps p b {
+  padding-left: 5px;
+  font-size: 13px;
+  font-weight: normal;
+  color: #000000;
+}
